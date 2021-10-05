@@ -30,3 +30,6 @@ class Prueba():
 
 class PruebaLocal():
     pass
+
+class Pro():
+    pass
