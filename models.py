@@ -21,3 +21,6 @@ class Producto(db.Base):
    
 class Test():
     pass
+
+class TestLocal():
+    pass
