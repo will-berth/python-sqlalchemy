@@ -27,3 +27,6 @@ class TestLocal():
 
 class Prueba():
     pass
+
+class PruebaLocal():
+    pass
