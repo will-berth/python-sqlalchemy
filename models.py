@@ -33,3 +33,6 @@ class PruebaLocal():
 
 class Pro():
     pass
+
+class Stash():
+    pass
