@@ -36,3 +36,6 @@ class Pro():
 
 class Stash():
     pass
+
+class StashTwo():
+    pass
